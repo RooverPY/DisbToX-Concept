@@ -1,6 +1,8 @@
 # VC DoS
 ** **
 
+![image](https://user-images.githubusercontent.com/93544398/139721181-cc6ec60c-65c0-4ece-9e18-d8a7273850fe.png)
+
 ### Mass-report for https://disboard.org! 
 
 #### Warning:
